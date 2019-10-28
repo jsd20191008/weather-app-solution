@@ -52,13 +52,12 @@ Note: The design of the app is totally up to you, we're mainly interested in the
 Here are some zip codes / city names to test!
 
 - 99501 (Anchorage)
-- 99723 (Barrow, AK)
 - 60605 (Chicago)
 - 70124 (New Orleans)
-- 77030 (Houston, TX)
-- 00902 (San Juan, Puerto Rico)
-- 46923 (Delphi, IN)
-- 94123 (San Francisco, CA)
+- 77030 (Houston)
+- 00902 (San Juan)
+- 94123 (San Francisco)
+
 
 #### Tips
 
