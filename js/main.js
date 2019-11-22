@@ -54,7 +54,7 @@ $(function () {
   async function openWeatherApi (query) {
     try {
       const url = 'https://api.openweathermap.org/data/2.5/weather'
-      const apiKey = '07f23638c66ae86b6782afd4869accab'
+      const apiKey = 'add_your_api_key_here'
 
       // check if user submitted a city name
       // or a zip code
